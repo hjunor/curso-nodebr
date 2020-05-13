@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img src='./img/nodeJS.jpg' width='100%' heigth='100%'>
+   <img src='./img/nodeJS.jpg' width='50%' heigth='50%'>
 </h1>
 
 
