@@ -1,8 +1,7 @@
 <h1 align="center">
-    <h1>Curso NodeJS</h1>
-   <img src='./img/nodeJS.jpg' width='50%' heigth='50%'>
+    Curso NodeJS
 </h1>
-
+<img align="center" src='./img/nodeJS.jpg' width='50%' heigth='50%'>
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
